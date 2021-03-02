@@ -65,7 +65,8 @@
       </p>
     </div>
     <div class="item4">Images:<br>
-      <img src="2021-suvs-trailblazer.jpg"
+      <img src="https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicle-groups/suv/01-images/2021-suvs-blazer.jpg"
+      alt="SUV">
     </div>
     <div class="item5">Author
       <p>Deliverance Right<br>
