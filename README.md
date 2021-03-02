@@ -52,12 +52,14 @@
     also a picky eater:</p>
 
   <div class="grid-container">
-    <div class="item1">Likes</div>
+    
     <div class="item2">Dislikes
       <ul>
         <li>Fish</li>
         <li>Eggs</li>
     </div>
+    
+    <div class="item1">Likes</div>
     <div class="item3">Cars<br>
       <p> I am a car fanatic. My favourite models are Chevrolet,Toyota, Dodge and Opel. When it comes to car size i pick
         SUVs over all other sizes.If you are contemplating on buying a car, i recommend using this website:
